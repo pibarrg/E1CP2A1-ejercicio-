@@ -1,0 +1,52 @@
+* {
+  margin:0;
+}
+
+header {
+  background-color: #a1253a;
+  text-align:center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Baloo Bhaijaan', cursive;
+  font-size:40px;
+  color: #f0aa41;
+}
+
+h2 {
+  font-family:arial;
+  font-size:20x;
+  color: white;
+}
+
+.hero {
+  background-color: #178bbd;
+  text-align: center;
+  padding: 10px
+}
+
+main {
+  text-align:right;
+  background-image: url(cuzco2.jpg);
+  background-size: 100% auto;
+  height: 300px;
+}
+
+main p{
+  color: white;
+}
+
+footer {
+  text-align: center;
+  background-color: white;
+  color:black;
+  margin: 20px auto;
+}
+
+footer table {
+  font-family: 'Arvo';
+  font-size:100px;
+  margin: 0 auto;
+}
